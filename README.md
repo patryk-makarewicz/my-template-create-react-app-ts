@@ -2,7 +2,7 @@
 
 # General info
 
-This is my template for create-react-app with eslint, prettier, husky, netlify.
+This is my template for create-react-app with typescript, eslint, prettier, husky, netlify.
 
 ## Getting Started with Create React App
 
