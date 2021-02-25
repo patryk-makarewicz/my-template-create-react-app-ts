@@ -20,7 +20,7 @@ const App = () => (
         <img src={logo} className="app__logo" alt="logo" />
         <div className="icon">
           <img src={react} className="icon__react" alt="logo React" title="React.js" />
-           <img src={ts} className="icon__ts" alt="logo TypeScript" title="TypeScript" />
+          <img src={ts} className="icon__ts" alt="logo TypeScript" title="TypeScript" />
           <img src={js} className="icon__js" alt="logo JavaScript" title="JavaScript" />
           <img src={html} className="icon__html" alt="logo Html" title="HTML5" />
           <img src={css} className="icon__css" alt="logo Css" title="CSS3" />
